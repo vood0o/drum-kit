@@ -1,1 +1,3 @@
-# drum-kit
+A little drum kit project.
+
+V
